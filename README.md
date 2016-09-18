@@ -7,6 +7,8 @@ Inspired by many awesomely curated lists in Github.
 # Content
 
 - [Tools](#tools)
+ * [Chat] (#chat)
+ * [Online Code Playgrounds] (#online-code-playgrounds)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Tools
@@ -18,10 +20,11 @@ Useful tools around the web.
 - [Ryver] (http://www.ryver.com/)
 - [Rocket Chat] (https://rocket.chat/)
 
-### Online Code Editors
- - JavaScript
+### Online Code Playgrounds
+ - Http/CSS/JavaScript
   * [JsBin] (http://jsbin.com/)
-  * 
+  * [CodePen] (http://codepen.io/)
+  * [JSFiddle] (https://jsfiddle.net/)
   
 ### API Development
 - Vendor Neutral
