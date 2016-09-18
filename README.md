@@ -18,8 +18,16 @@ Useful tools around the web.
 - [Ryver] (http://www.ryver.com/)
 - [Rocket Chat] (https://rocket.chat/)
 
+### API Development
+- Swagger (http://swagger.io/)
+- Node
+  * [Express] (https://expressjs.com/)
+  * [Koa] (http://koajs.com/)
+  * [LoopBack] (http://loopback.io/)
+
 ## Other Awesome Lists
 
+- [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
 - [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) (English Books)
 - [awesome-react-native] (https://github.com/jondot/awesome-react-native/)
 
