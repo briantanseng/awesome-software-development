@@ -18,12 +18,21 @@ Useful tools around the web.
 - [Ryver] (http://www.ryver.com/)
 - [Rocket Chat] (https://rocket.chat/)
 
+### Online Code Editors
+ - JavaScript
+  * [JsBin] (http://jsbin.com/)
+  * 
+  
 ### API Development
-- Swagger (http://swagger.io/)
+- Vendor Neutral
+ * [Swagger] (http://swagger.io/)
 - Node
-  * [Express] (https://expressjs.com/)
-  * [Koa] (http://koajs.com/)
-  * [LoopBack] (http://loopback.io/)
+ * [Express] (https://expressjs.com/)
+ * [Restify] (http://restify.com/)
+ * [Koa] (http://koajs.com/)
+ * [LoopBack] (http://loopback.io/)
+- Open Standards
+ * [Open API Initiative] (https://openapis.org/) 
 
 ## Other Awesome Lists
 
