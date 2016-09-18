@@ -27,13 +27,16 @@ Useful tools around the web.
 - [JSFiddle] (https://jsfiddle.net/)
   
 ### API Development
-- Vendor Neutral
- * [Swagger] (http://swagger.io/)
 - Node
  * [Express] (https://expressjs.com/)
  * [Restify] (http://restify.com/)
  * [Koa] (http://koajs.com/)
  * [LoopBack] (http://loopback.io/)
+- API Tools: Gateway, Management & Documentation
+ * [Swagger] (http://swagger.io/)
+ * [Apigee] (http://apigee.com/about/)
+ * [Tyk] (https://tyk.io/)
+ * [Apiary] (https://apiary.io/)
 - Open Standards
  * [Open API Initiative] (https://openapis.org/) 
 
