@@ -1,4 +1,4 @@
-# awesome-links
+# awesome-tech
 
 A curated list of awesome online tools, content dealing with technology.
 
