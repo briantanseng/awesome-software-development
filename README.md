@@ -13,8 +13,10 @@ Inspired by many awesomely curated lists in Github.
 
 Useful tools around the web.
 
-### Chat
-- [ryver] (http://www.ryver.com/)
+### Chat (Slack Alternatives)
+- [Mattermost] (https://about.mattermost.com/)
+- [Ryver] (http://www.ryver.com/)
+- [Rocket Chat] (https://rocket.chat/)
 
 ## Other Awesome Lists
 
