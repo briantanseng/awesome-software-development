@@ -18,6 +18,6 @@ Useful tools around the web.
 
 ## Other Awesome Lists
 
-- [free-programming-books] https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md (English)
-- [awesome-react-native] https://github.com/jondot/awesome-react-native/
+- [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) (English)
+- [awesome-react-native] (https://github.com/jondot/awesome-react-native/)
 
