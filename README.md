@@ -14,10 +14,10 @@ Inspired by many awesomely curated lists in Github.
 Useful tools around the web.
 
 ### Chat
-- [ryver] http://www.ryver.com/
+- [ryver] (http://www.ryver.com/)
 
 ## Other Awesome Lists
 
-- [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) (English)
+- [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) (English Books)
 - [awesome-react-native] (https://github.com/jondot/awesome-react-native/)
 
