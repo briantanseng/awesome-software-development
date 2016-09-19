@@ -1,8 +1,6 @@
 # awesome-software-development
 
-A curated list of awesome online tools, content dealing with technology.
-
-Inspired by many awesomely curated lists in Github.
+A curated list of study materials, libraries and tools pertaining to software development. This is inspired by many awesomely curated lists in Github.
 
 # Content
 
