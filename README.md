@@ -46,6 +46,7 @@ Useful tools around the web.
 - [JsBin] (http://jsbin.com/)
 - [CodePen] (http://codepen.io/)
 - [JSFiddle] (https://jsfiddle.net/)
+- [Thimble] (https://thimble.mozilla.org/en-US/)
 
 ## Other Awesome Lists
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
