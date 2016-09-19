@@ -37,9 +37,12 @@ Useful tools around the web.
  * [Apigee] (http://apigee.com/about/)
  * [Tyk] (https://tyk.io/)
  * [Apiary] (https://apiary.io/)
+ * [MashApe] (https://www.mashape.com/)
 - Open Standards
  * [Open API Initiative] (https://openapis.org/) 
-
+- Security
+ * [Secure Your REST API] (http://www.slideshare.net/stormpath/secure-your-rest-api-the-right-way)
+ * [OWASP: REST Security Cheat Sheet] (https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 ## Other Awesome Lists
 
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
