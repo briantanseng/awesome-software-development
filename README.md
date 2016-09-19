@@ -3,28 +3,13 @@
 A curated list of study materials, libraries and tools pertaining to software development. This is inspired by many awesomely curated lists in Github.
 
 # Content
-
+- [API Development] (#api-development)
 - [Tools](#tools)
  * [Chat] (#chat)
  * [Online Code Playgrounds] (#online-code-playgrounds)
- * [API Development] (#api-development)
 - [Other Awesome Lists](#other-awesome-lists)
 
-## Tools
-
-Useful tools around the web.
-
-### Chat (Slack Alternatives)
-- [Mattermost] (https://about.mattermost.com/)
-- [Ryver] (http://www.ryver.com/)
-- [Rocket Chat] (https://rocket.chat/)
-
-### Online Code Playgrounds
-- [JsBin] (http://jsbin.com/)
-- [CodePen] (http://codepen.io/)
-- [JSFiddle] (https://jsfiddle.net/)
-  
-### API Development
+## API Development
 - Node
  * [Express] (https://expressjs.com/)
  * [Restify] (http://restify.com/)
@@ -42,6 +27,25 @@ Useful tools around the web.
  * [JSON Web Tokens] (https://jwt.io/)
  * [Secure Your REST API] (http://www.slideshare.net/stormpath/secure-your-rest-api-the-right-way)
  * [OWASP: REST Security Cheat Sheet] (https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+
+## Tools
+Useful tools around the web.
+
+### Chat (Slack Alternatives)
+- [Mattermost] (https://about.mattermost.com/)
+- [Ryver] (http://www.ryver.com/)
+- [Rocket Chat] (https://rocket.chat/)
+
+## Code Editors
+- [Sublime Text] (https://www.sublimetext.com/)
+- [Atom] (https://atom.io/)
+- [Visual Studio Code] (https://code.visualstudio.com/)
+- [Brackets] (http://brackets.io/)
+
+### Online Code Playgrounds
+- [JsBin] (http://jsbin.com/)
+- [CodePen] (http://codepen.io/)
+- [JSFiddle] (https://jsfiddle.net/)
 
 ## Other Awesome Lists
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
