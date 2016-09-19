@@ -1,4 +1,4 @@
-# awesome-tech
+# awesome-software-development
 
 A curated list of awesome online tools, content dealing with technology.
 
@@ -44,8 +44,8 @@ Useful tools around the web.
  * [JSON Web Tokens] (https://jwt.io/)
  * [Secure Your REST API] (http://www.slideshare.net/stormpath/secure-your-rest-api-the-right-way)
  * [OWASP: REST Security Cheat Sheet] (https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
-## Other Awesome Lists
 
+## Other Awesome Lists
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
 - [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) (English Books)
 - [awesome-react-native] (https://github.com/jondot/awesome-react-native/)
