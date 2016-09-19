@@ -46,5 +46,7 @@ Useful tools around the web.
 ## Other Awesome Lists
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
 - [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) (English Books)
+- [awesome-nodejs] (https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-react] (https://github.com/enaqx/awesome-react)
 - [awesome-react-native] (https://github.com/jondot/awesome-react-native/)
 
