@@ -4,6 +4,8 @@ A curated list of study materials, libraries and tools pertaining to software de
 
 # Content
 - [API Development] (#api-development)
+- [Frameworks] (#frameworks)
+- [Front-End] (#front-end)
 - [Tools](#tools)
  * [Chat] (#chat)
  * [Online Code Playgrounds] (#online-code-playgrounds)
@@ -27,6 +29,20 @@ A curated list of study materials, libraries and tools pertaining to software de
  * [JSON Web Tokens] (https://jwt.io/)
  * [Secure Your REST API] (http://www.slideshare.net/stormpath/secure-your-rest-api-the-right-way)
  * [OWASP: REST Security Cheat Sheet] (https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+
+## Frameworks
+- JavaScript / EcmaScript
+ * [Telescope] (http://www.telescopeapp.org/)
+ * [Meteor] (https://www.meteor.com/)
+
+## Front-End
+- JavaScript / EcmaScript
+ * [Vue] (https://vuejs.org/)
+ * [Aurelia] (http://aurelia.io/)
+ * [Angular] (https://angular.io/)
+ * [Ember] (http://emberjs.com/)
+ * [React] (https://facebook.github.io/react/)
+ * [Cycle] (https://cycle.js.org/)
 
 ## Tools
 Useful tools around the web.
