@@ -43,6 +43,7 @@ A curated list of study materials, libraries and tools pertaining to software de
  * [Ember] (http://emberjs.com/)
  * [React] (https://facebook.github.io/react/)
  * [Cycle] (https://cycle.js.org/)
+ * [Riot] (http://riotjs.com/)
 
 ## Tools
 Useful tools around the web.
