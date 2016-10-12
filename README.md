@@ -83,6 +83,7 @@ Useful tools around the web.
  * [MUI] (https://www.muicss.com/)
  * [Elemental UI] (http://elemental-ui.com/)
  * [Belle] (http://nikgraf.github.io/belle)
+ * [Essence] (http://getessence.io/)
  
 ## Other Awesome Lists
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
