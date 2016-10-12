@@ -54,7 +54,7 @@ Useful tools around the web.
 - [Ryver] (http://www.ryver.com/)
 - [Rocket Chat] (https://rocket.chat/)
 
-## Code Editors
+### Code Editors
 - [Sublime Text] (https://www.sublimetext.com/)
 - [Atom] (https://atom.io/)
 - [Visual Studio Code] (https://code.visualstudio.com/)
@@ -72,7 +72,17 @@ Useful tools around the web.
 - [Cloudinary] (http://cloudinary.com/)
 - [Resrc] (https://www.resrc.it/)
 - [Transloadit] (https://transloadit.com/)
+- [Thumbor] (https://github.com/thumbor/thumbor)
 
+### UI Components
+- React and Material Design
+ * [Material UI] (http://www.material-ui.com/)
+ * [React Toolbox] (http://react-toolbox.com/)
+ * [React MDL] (https://tleunen.github.io/react-mdl/)
+ * [MUI] (https://www.muicss.com/)
+ * [Elemental UI] (http://elemental-ui.com/)
+ * [Belle] (http://nikgraf.github.io/belle)
+ 
 ## Other Awesome Lists
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
 - [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) (English Books)
