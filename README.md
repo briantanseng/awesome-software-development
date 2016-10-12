@@ -9,6 +9,7 @@ A curated list of study materials, libraries and tools pertaining to software de
 - [Tools](#tools)
  * [Chat] (#chat)
  * [Online Code Playgrounds] (#online-code-playgrounds)
+ * [Image Handling Services] (#image-handling-services)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## API Development
@@ -64,6 +65,13 @@ Useful tools around the web.
 - [CodePen] (http://codepen.io/)
 - [JSFiddle] (https://jsfiddle.net/)
 - [Thimble] (https://thimble.mozilla.org/en-US/)
+
+### Image Handling Services
+- [Imgix] (http://www.imgix.com/)
+- [Thumbr] (http://www.thumbr.io/)
+- [Cloudinary] (http://cloudinary.com/)
+- [Resrc] (https://www.resrc.it/)
+- [Transloadit] (https://transloadit.com/)
 
 ## Other Awesome Lists
 - [Online Programming Books] (http://www.onlineprogrammingbooks.com/)
