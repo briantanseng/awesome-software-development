@@ -55,6 +55,9 @@ Useful tools around the web.
 - [Ryver] (http://www.ryver.com/)
 - [Rocket Chat] (https://rocket.chat/)
 
+### Discussion Boards
+- [Discourse] (http://www.discourse.org/)
+
 ### Code Editors
 - [Sublime Text] (https://www.sublimetext.com/)
 - [Atom] (https://atom.io/)
