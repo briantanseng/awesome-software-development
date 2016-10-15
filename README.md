@@ -55,8 +55,10 @@ Useful tools around the web.
 - [Ryver] (http://www.ryver.com/)
 - [Rocket Chat] (https://rocket.chat/)
 
-### Discussion Boards
+### Discussion Boards / Forums
 - [Discourse] (http://www.discourse.org/)
+- [Flarum] (http://flarum.org/)
+- [Vanilla] (https://vanillaforums.org/)
 
 ### Code Editors
 - [Sublime Text] (https://www.sublimetext.com/)
